@@ -1,0 +1,54 @@
+/*FONTS PARA TITULOS*/
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Martel:wght@200&family=Playfair+Display&display=swap");
+.textTitle {
+  font-family: 'Playfair Display', serif; }
+
+/*FONTS PARA Textos*/
+.textSubti {
+  font-family: 'Martel', serif; }
+
+/*ESTILO NAV*/
+.textShadow {
+  color: rgba(255, 255, 255, 0.3);
+  background: #1a1a1a;
+  text-shadow: 0 0 15px rgba(255, 255, 255, 0.5), 0 0 10px rgba(255, 255, 255, 0.5); }
+
+.imgHeader {
+  width: 100%; }
+
+/*ESTILO HEADER*/
+.headerIndex h1 {
+  font-size: 4rem;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  background-color: #F1C40F;
+  -webkit-box-shadow: 11px 10px 24px -7px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 11px 10px 24px -7px rgba(0, 0, 0, 0.75);
+  box-shadow: 11px 10px 24px -7px rgba(0, 0, 0, 0.75); }
+
+hr {
+  background-color: black; }
+
+/*ESTILO MAIN*/
+.mainIndex p {
+  text-align: center;
+  font-family: 'Martel', serif;
+  font-size: 1.5rem;
+  margin: 5rem; }
+
+.tamImgMain {
+  width: 25rem;
+  border-radius: 2%; }
+
+figure h3 {
+  text-align: center;
+  margin: 5rem;
+  font-size: 2.5rem;
+  background-color: #F1C40F;
+  -webkit-box-shadow: 11px 10px 24px -7px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 11px 10px 24px -7px rgba(0, 0, 0, 0.75);
+  box-shadow: 11px 10px 24px -7px rgba(0, 0, 0, 0.75); }
+
+figure .imgMain {
+  width: 100%; }
