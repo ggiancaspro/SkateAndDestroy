@@ -8,7 +8,7 @@
 .textSubti {
   font-family: 'Martel', serif; }
 
-/*ESTILO NAV*/
+/*ESTILO NAV: INDEX - MULTIMEDIA - HISTORIA*/
 .textShadow {
   color: rgba(255, 255, 255, 0.3);
   background: #1a1a1a;
@@ -17,7 +17,7 @@
 .imgHeader {
   width: 100%; }
 
-/*ESTILO HEADER*/
+/*ESTILO HEADER: INDEX - MULTIMEDIA - HISTORIA*/
 .headerIndex h1 {
   font-size: 4rem;
   text-align: center;
@@ -30,7 +30,10 @@
 hr {
   background-color: black; }
 
-/*ESTILO MAIN*/
+.text h1 {
+  margin-top: 3rem; }
+
+/*ESTILO MAIN: INDEX - MULTIMEDIA - HISTORIA*/
 .mainIndex p {
   text-align: center;
   font-family: 'Martel', serif;
@@ -38,7 +41,7 @@ hr {
   margin: 5rem; }
 
 .tamImgMain {
-  width: 25rem;
+  width: 18rem;
   border-radius: 2%; }
 
 figure h3 {
@@ -52,3 +55,23 @@ figure h3 {
 
 figure .imgMain {
   width: 100%; }
+
+/*ESTILO MULTIMEDIA ALBUM*/
+#galeria .col-lg-4 {
+  padding: 20px; }
+
+#galeria img {
+  width: 100%;
+  height: 250px;
+  border-radius: 2%; }
+
+#galeria img:hover {
+  border: 5px solid #F1C40F; }
+
+/*ESTILO HISTORIA CARROUSEL*/
+.slide {
+  margin-top: 50px; }
+
+.imgnormalizada img {
+  width: auto;
+  height: 1000px; }

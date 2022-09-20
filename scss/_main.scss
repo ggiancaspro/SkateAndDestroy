@@ -1,4 +1,4 @@
-/*ESTILO MAIN*/
+/*ESTILO MAIN: INDEX - MULTIMEDIA - HISTORIA*/
 
 
 .mainIndex p {
@@ -9,7 +9,7 @@
 }
 
 .tamImgMain {
-    width: 25rem;
+    width: 18rem;
     border-radius: 2%;
     
 }
@@ -31,4 +31,43 @@ figure .imgMain {
     width: 100%;
     
 }
+
+
+/*ESTILO MULTIMEDIA ALBUM*/
+
+#galeria .col-lg-4 {
+    padding: 20px;
+}
+
+
+
+#galeria img {
+    width: 100% ;
+    height: 250px;
+    border-radius: 2%;
+}
+
+
+#galeria img:hover {
+    border: 5px solid #F1C40F;
+}
+
+
+
+/*ESTILO HISTORIA CARROUSEL*/
+
+
+.slide {
+    margin-top: 50px;
+    
+}
+
+.imgnormalizada img {
+    width: auto;
+    height: 1000px;
+  }
+
+
+
+
 
