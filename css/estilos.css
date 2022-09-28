@@ -8,7 +8,7 @@
 .textSubti {
   font-family: 'Martel', serif; }
 
-/*ESTILO NAV: INDEX - MULTIMEDIA - HISTORIA*/
+/*ESTILO NAV: INDEX - MULTIMEDIA - HISTORIA - SHOP - CONTACTO*/
 .textShadow {
   color: rgba(255, 255, 255, 0.3);
   background: #1a1a1a;
@@ -17,7 +17,7 @@
 .imgHeader {
   width: 100%; }
 
-/*ESTILO HEADER: INDEX - MULTIMEDIA - HISTORIA*/
+/*ESTILO HEADER: INDEX - MULTIMEDIA - HISTORIA - SHOP - CONTACTO*/
 .headerIndex h1 {
   font-size: 4rem;
   text-align: center;
@@ -33,7 +33,7 @@ hr {
 .text h1 {
   margin-top: 3rem; }
 
-/*ESTILO MAIN: INDEX - MULTIMEDIA - HISTORIA*/
+/*ESTILO MAIN: INDEX - MULTIMEDIA - HISTORIA - SHOP - CONTACTO*/
 .mainIndex p {
   text-align: center;
   font-family: 'Martel', serif;
