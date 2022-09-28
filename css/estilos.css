@@ -40,21 +40,14 @@ hr {
   font-size: 1.5rem;
   margin: 5rem; }
 
-.tamImgMain {
-  width: 18rem;
-  border-radius: 2%; }
-
 figure h3 {
   text-align: center;
-  margin: 5rem;
+  margin: 80rem;
   font-size: 2.5rem;
   background-color: #F1C40F;
   -webkit-box-shadow: 11px 10px 24px -7px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 11px 10px 24px -7px rgba(0, 0, 0, 0.75);
   box-shadow: 11px 10px 24px -7px rgba(0, 0, 0, 0.75); }
-
-figure .imgMain {
-  width: 100%; }
 
 /*ESTILO MULTIMEDIA ALBUM*/
 #galeria .col-lg-4 {
@@ -68,10 +61,10 @@ figure .imgMain {
 #galeria img:hover {
   border: 5px solid #F1C40F; }
 
-/*ESTILO HISTORIA CARROUSEL*/
-.slide {
-  margin-top: 50px; }
+/*ESTILO SHOP*/
+#galeria .imgShop {
+  width: auto; }
 
-.imgnormalizada img {
-  width: auto;
-  height: 1000px; }
+/*ESTILO CONTACTOS*/
+.contacSize {
+  width: auto; }

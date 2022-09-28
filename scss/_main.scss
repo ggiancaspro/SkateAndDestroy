@@ -8,18 +8,12 @@
     margin: 5rem;
 }
 
-.tamImgMain {
-    width: 18rem;
-    border-radius: 2%;
-    
-}
-
 
 
 
 figure h3 {
     text-align: center;
-    margin: 5rem;
+    margin: 80rem;
     font-size: 2.5rem;
     background-color: #F1C40F;
     -webkit-box-shadow: 11px 10px 24px -7px rgba(0,0,0,0.75);
@@ -27,17 +21,14 @@ figure h3 {
     box-shadow: 11px 10px 24px -7px rgba(0,0,0,0.75);
 }
 
-figure .imgMain {
-    width: 100%;
-    
-}
-
 
 /*ESTILO MULTIMEDIA ALBUM*/
 
 #galeria .col-lg-4 {
     padding: 20px;
+    
 }
+
 
 
 
@@ -54,18 +45,20 @@ figure .imgMain {
 
 
 
-/*ESTILO HISTORIA CARROUSEL*/
 
+/*ESTILO SHOP*/
 
-.slide {
-    margin-top: 50px;
-    
+#galeria .imgShop {
+    width: auto;
 }
 
-.imgnormalizada img {
+
+
+/*ESTILO CONTACTOS*/
+
+.contacSize {
     width: auto;
-    height: 1000px;
-  }
+}
 
 
 
